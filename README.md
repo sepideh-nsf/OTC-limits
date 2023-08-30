@@ -3,7 +3,6 @@ A [PyTorch](http://pytorch.org/) implementation of the method proposed in the pa
 
 <img align="center" src= "https://github.com/sepideh-nsf/OTC-limits/blob/main/High%20Quality%20Graphical%20Abstract.JPG" height = 400/>
 
-This implementation is written in Python 3 and uses PyTorch.
 ## Requirements
 * `numpy`
 * `pandas`
